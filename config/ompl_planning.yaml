@@ -1,3 +1,4 @@
+max_replan_attempts: 1
 planner_configs:
   SBLkConfigDefault:
     type: geometric::SBL
